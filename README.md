@@ -1,16 +1,16 @@
 # NewsVerse - React App
 
-🚀 Features
+🚀 Features                                                                                                                                                                  
+
 --> React Framework: Built using modern React.js practices for high performance and scalability.                                                                               
 --> Real-Time News: Fetches up-to-date news using public APIs.                                                                                                                 
 --> Category Filtering: Navigate through different news genres like Technology, Sports, Business, and more.                                                                    
---> Responsive Design: Optimized for desktop, tablet, and mobile devices.                                                                                                          
+--> Responsive Design: Optimized for desktop, tablet, and mobile devices.                                                                                                    
+
 Technologies Used 🛠️
 
 . Frontend: React.js (with Hooks such as useEffect, useState)                                                                                                                 
-
 . Styling: CSS and responsive design techniques                                                                                                                               . API: Fetching data from a public news API                                                                                                                                   
-
 . Deployment: GitHub Pages                                                                                                                                                         
 
 
