@@ -10,8 +10,8 @@
 Technologies Used 🛠️
 
 . Frontend: React.js (with Hooks such as useEffect, useState)                                                                                                                 
-. Styling: CSS and responsive design techniques                                                                                                                               . API: Fetching data from a public news API                                                                                                                                   
-. Deployment: GitHub Pages                                                                                                                                                         
+. Styling: CSS and responsive design techniques                                                                                                                              . Deployment: GitHub Pages 
+. API: Fetching data from a public news API 
 
 
 
